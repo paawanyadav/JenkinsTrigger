@@ -1,2 +1,2 @@
-Print("Successfully trigger by another JOB")
-Print("BYE BYE !!!!!!!!!!!!!!!!!!!!!!!!!")
+print("Successfully trigger by another JOB")
+print("BYE BYE !!!!!!!!!!!!!!!!!!!!!!!!!")
